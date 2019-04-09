@@ -1,6 +1,6 @@
 cet_make( LIBRARIES
-    ${ROOT_EG}
-    ${ROOT_CORE}
+    ROOT::EG
+    ROOT::Core
   )
 
 install_headers()
